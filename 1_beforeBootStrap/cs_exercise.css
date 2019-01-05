@@ -1,0 +1,25 @@
+.date, h1, .content{
+	margin-left:12px;
+}
+
+
+#my_article{
+	padding:7px;
+	border:12px solid lightgray;
+}
+.date{
+	color:darkgray;
+}
+
+.prefix{
+	border-left: 6px solid lightgray;
+	padding-left: 2px;
+}
+
+.content{
+
+}
+
+body{
+	font-family:"Source Sans Pro";
+}

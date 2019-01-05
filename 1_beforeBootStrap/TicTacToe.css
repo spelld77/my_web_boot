@@ -1,0 +1,37 @@
+h1{
+	text-align:center;
+}
+
+table{	
+
+	margin:30px auto;
+	border-collapse: collapse;
+	border-left
+
+}
+
+
+td{
+	border:1px solid black;
+	width:120px;
+	height:120px;
+
+}
+
+
+tr:first-child td{
+	border-top: white;
+
+}
+tr:last-child td{
+	border-bottom: white;
+}
+
+tr td:first-child{
+	border-left: white;
+}
+
+tr td:last-child{
+	border-right:white;
+}
+

@@ -1,6 +1,6 @@
 var todos = ["Buy New Turtle"];
 
-// window.setTimeout(function(){
+window.setTimeout(function(){
 
     do{
         var input = prompt("What would you like to do?");
@@ -14,7 +14,7 @@ var todos = ["Buy New Turtle"];
     }while(input !== "quit")
 
 
-// }, 500);
+}, 500);
 
 function listTodos(){
     console.log("**********");
